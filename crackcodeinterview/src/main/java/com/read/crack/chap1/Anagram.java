@@ -3,6 +3,12 @@ package com.read.crack.chap1;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Write a method to decide if two strings are anagrams or not
+ * 
+ * @author read
+ *
+ */
 public class Anagram {
 	public static void main(String[] args) {
 		test("torchwood","doctorwho");
