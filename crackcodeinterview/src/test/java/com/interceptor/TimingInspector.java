@@ -1,4 +1,4 @@
-package com.Interceptor;
+package com.interceptor;
 
 public class TimingInspector {
 	public void measureTime() {
